@@ -9,6 +9,8 @@ Ingeniero de Sistemas, Magister en Ingeniería Industrial con 8 años de experie
 
 Poseo conocimientos técnicos en IBM SPSS Statistics y Modeler, Anylogic, LPSolve, R, Python, Knime, Power BI entre otras herramientas, y metodologías como UML, BPM, CRISP-DM y SCRUM.
 
+**Hoja de vida**
+
 ### Contacto
 
 [silvdaniel@gmail.com](mailto:silvdaniel@gmail.com)

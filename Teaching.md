@@ -1,4 +1,4 @@
-## Escuela de Artes y Letras
+# Escuela de Artes y Letras
 
 [**Introducción a la programación** (2019-2)](https://github.com/daniels13ca/Intro_Programacion)
 

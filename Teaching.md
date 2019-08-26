@@ -2,7 +2,7 @@
 
 [**Introducción a la programación** (2019-2)](https://github.com/daniels13ca/Intro_Programacion)
 
-Utilizando un lenguaje de programación enfocado en el desarrollo de proyector multimedia [Processing](https://es.wikipedia.org/wiki/Processing) se enseñan los principios básicos de programación.
+Utilizando un lenguaje de programación enfocado en el desarrollo de proyectos multimedia: [Processing](https://es.wikipedia.org/wiki/Processing), se enseñan los principios básicos de programación.
 
 [**Ingeniería de Software** (2019-2)](https://github.com/daniels13ca/Ing_Software)
 

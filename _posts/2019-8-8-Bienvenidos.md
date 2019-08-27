@@ -1,7 +1,7 @@
 ---
 layout: post
 title: !Bienvenidos!
-date: 2019-8-27
+date: 2019-8-8
 ---
 
 Bievenidos a mi sitio personal. 

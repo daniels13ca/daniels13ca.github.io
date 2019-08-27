@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ¡Bienvenidos!
+title: Bienvenidos
 ---
 
 Bievenidos a mi sitio personal. 

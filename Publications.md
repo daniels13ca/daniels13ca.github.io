@@ -1,3 +1,10 @@
+---
+layout: page
+title: Publicaciones
+permalink: /Publications/
+published: true
+---
+
 ## Publicaciones
 
 * J. Alvarado Valencia and D. Silva, “Modeling and simulation of customer dissatisfaction, worker unpunctuality and tolerance to delay in make-to-order supply chains measured through customer lifetime value performance”, IyU, vol. 22, no. 2, Aug. 2018.

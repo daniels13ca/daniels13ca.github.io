@@ -12,3 +12,7 @@ published: true
 * Silva, Daniel; Chavarro, Oscar. “Procesos productivos para la producción de juegos de video en Colombia”, VI Congreso Colombiano de Computación. Manizales, 2011.
 
 * Silva, Daniel. «Guía Metodológica para la gestión de proyectos de juegos de video utilizando BPMN«, Trabajo de grado en Ingeniería de Sistemas nominado a mención de honor, Pontificia Universidad Javeriana. Bogotá, 2010.
+
+### Reconocimientos
+
+* Tercer Puesto, 2da Competencia Analítica - Universidad de los Andes, Bogotá - 2018

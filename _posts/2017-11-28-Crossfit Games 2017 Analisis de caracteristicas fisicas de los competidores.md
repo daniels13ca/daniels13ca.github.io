@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crossfit Games 2017: Análisis de características físicas de los competidores
+title: Crossfit Games 2017 Analisis de caracteristicas fisicas de los competidores
 ---
 
 ![Crossfit Games 2017](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/CF2017.jpg)

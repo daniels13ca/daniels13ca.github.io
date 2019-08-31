@@ -3,8 +3,6 @@ layout: post
 title: Mis pronosticos para el mundial
 ---
 
-![Pulpo Paul](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Pronosticos1.jpg)
-
 Llega una nueva edición de la Copa Mundial de Fútbol que en esta ocasión se va a celebrar en Rusia, y de nuevo intentaré pronosticar los resultados al mejor estilo del Pulpo Paul. 
 
 ## Fases de grupos

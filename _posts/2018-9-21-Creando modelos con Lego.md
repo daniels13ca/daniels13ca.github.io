@@ -27,6 +27,6 @@ Dejo algunas imágenes del proceso de creación y la iglesia referencia:
 
 ![Iglesia 8](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Church8.png)
 
-![Iglesia 9](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Church9.png)
+![Iglesia 9](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Church9.jpg)
 
 El archivo fuente del modelo, las instrucciones y el listado de piezas se pueden consultar y/o descargar en el siguiente link: [Modelo iglesia de El Cocuy](https://studio.bricklink.com/v3/studio/design.page?idModel=46141).

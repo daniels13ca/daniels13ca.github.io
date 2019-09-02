@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Evolución de representacion en el mundial por Confederaciones
+title: Evolución de representación en el mundial por Confederaciones
 ---
 
 ![Mundial 1](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Mundial1.png)

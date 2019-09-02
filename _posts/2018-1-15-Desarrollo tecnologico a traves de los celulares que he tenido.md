@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Desarrollo tecnologico a traves de los celulares que he tenido
+title: Desarrollo tecnológico a través de los celulares que he tenido
 ---
 
 

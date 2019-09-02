@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mis pronosticos para el mundial
+title: Mis pronósticos para el mundial
 ---
 
 Llega una nueva edición de la Copa Mundial de Fútbol que en esta ocasión se va a celebrar en Rusia, y de nuevo intentaré pronosticar los resultados al mejor estilo del Pulpo Paul. 

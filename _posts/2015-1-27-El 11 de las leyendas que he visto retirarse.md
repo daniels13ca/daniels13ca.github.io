@@ -12,12 +12,12 @@ Mi 11 ideal de jugadores que vi en su mayor nivel y que ya se han retirado, es e
 
 Los suplentes son:
 
-| Jugador     | Retiro |
-| ------------|--------|
-| Van der Sar | 2011   |
-| Cannavaro   | 2011   |
-| Cafu        | 2009   |
-| Ballack     | 2012   |
-| Riquelme    | 2014   |
-| Gallardo    | 2011   |
-| Palermo     | 2011   |
+| Jugador      | Retiro |
+| -------------|--------|
+| Van der Sar  | 2011   |
+| Cannavaro    | 2011   |
+| Cafu         | 2009   |
+| Ballack      | 2012   |
+| Riquelme     | 2014   |
+| Gallardo     | 2011   |
+| Palermo      | 2011   |

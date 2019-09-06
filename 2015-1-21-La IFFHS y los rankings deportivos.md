@@ -3,7 +3,7 @@ layout: post
 title: La IFFHS y los rankings deportivos
 ---
 
-Cada cierto tiempo la IFFHS (Federación Internacional de Historia y Estadística de Fútbol)](https://es.wikipedia.org/wiki/IFFHS) publica algún listado: las mejores ligas del mundo, los mejores clubes del mundo, entre otros y con cada 
+Cada cierto tiempo la [IFFHS (Federación Internacional de Historia y Estadística de Fútbol)](https://es.wikipedia.org/wiki/IFFHS) publica algún listado: las mejores ligas del mundo, los mejores clubes del mundo, entre otros y con cada 
 publicación de un listado vuelve a surgir una cantidad considerable de polémicas.
 
 ![Ranking 1](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Ranking1.png)

@@ -5,7 +5,7 @@ title: La innovación como pilar en la creación de valor
 
 La dificultad de las compañías para crear ventajas competitivas reales en la sociedad actual ha motivado a grandes organizaciones en cabeza de personajes excepcionales a centrar su estrategia de creación de valor en la innovación, concepto que se ha venido desarrollando desde hace más de 20 siglos en el campo militar.
 
-![Innovacion 1](https://github.com/daniels13ca/daniels13ca.github.io/blob/master/images/innovacion.png)
+![Innovacion 1](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/innovacion.png)
 
 Evidentemente la compañía que logre desarrollar y ofrecer un producto o servicio que no se pueda replicar o imitar satisfactoriamente tendrá una ventaja competitiva con respecto a sus competidores.
 

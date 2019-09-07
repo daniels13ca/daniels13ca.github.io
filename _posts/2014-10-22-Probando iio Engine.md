@@ -1,38 +1,29 @@
 ---
 layout: post
-title: Los países desconocidos de Sudámerica
+title: Probando iio Engine
 ---
 
-Para muchos colombianos (y creería que sudamericanos) el subcontinente esta compuesto por 10 países de los cuales el más grande es Brasil y el más pequeño Uruguay.
+Existen diferentes motores de juegos de video, desde los más complejos como [Unity](https://es.wikipedia.org/wiki/Unity_(motor_de_videojuego)) hasta otros muchos más sencillos que son librerías de JavaScript; En esta ocasión he decidido implementar un juego utilizando un framework para HTMLL y Javascript.
 
-![Sudamerica 1](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Suramerica1.jpg)
+![iio 1](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/iio1.png)
 
-Sin embargo esto no es cierto ya que en el continente se ubican tres territorios más, dos países independientes y un enclave colonial. Los 
-dos países son [Guyana](https://es.wikipedia.org/wiki/Guyana#Demograf.C3.ADa) y [Surinam](https://es.wikipedia.org/wiki/Surinam) y 
-el enclave corresponde a [Guyana Francesa](https://es.wikipedia.org/wiki/Guayana_Francesa) que esta constituido como un departamento de ultramar perteneciente a Francia,
+El framework escogido es [iio Engine](http://iioengine.com/), entre otras cosas por ser totalmente gratuito y por pesar tan solo 47 KB. Luego de dedicarle algunas horas este fue el resultado que obtuve:
 
-Los tres territorios tienen grandes diferencias demográficas con sus vecinos que se originan en la colonia, ya que al ser dominados por franceses, ingleses y neerlandeses desarrollaron una cultura muy diferente a la española o portuguesa propia de los 10 países más conocidos de la zona, de igual forma la inmigración en grandes cantidades de indios y otras poblaciones del sureste asiático que se dieron en los siglos XIX y XX han hecho que una buena parte de la población practiquen el hinduismo y el islamismo que son religiones minoritarias en los otros países.
+*(Hacer clic en la imagen para dirigirse al sitio del juego)*
 
-Estas marcadas diferencias se han trasladado incluso al campo deportivo ya que que ninguna de las federaciones de fútbol correspondientes a los tres territorios hacen parte de la [CONMEBOL](https://es.wikipedia.org/wiki/Confederaci%C3%B3n_Sudamericana_de_F%C3%BAtbol),
-están afiliadas a la [Unión Caribeña de Fútbol (CFU)](https://es.wikipedia.org/wiki/Uni%C3%B3n_Caribe%C3%B1a_de_F%C3%BAtbol) y que a 
-su vez esta subordinada a la [CONCACAF](https://es.wikipedia.org/wiki/Concacaf).
+[![iio 2](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/ii2.png)](https://daniels13ca.itch.io/dionaea-attack)
 
-Por último incluso en las banderas de Guyana y Surinam se aprecia una desconexión cultural con el resto del continente ya que se 
-asemejan más en estructura y colores a las africanas o caribeñas.
+El juego en general es algo muy básico (especialmente con assets muy simples y bastante feo en general). Sin embargo permite llegar a algunas conclusiones:
 
-* Bandera de Guyana:
+**Pros:**
 
-![Sudamerica 2](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Suramerica2.png)
+* No es necesario instalar nada, basta con descargar un .js y tener un editor de texto.
+* Incluyendo otras librerías de Javascript se puede hacer multiplataforma (por ejemplo el módulo touch de [zepto](https://zeptojs.com/)).
+* Si se tienen conocimiento previos de programación el tiempo de aprendizaje es mínimo, solo es necesario leer un poco la documentación de la librería.
+* Es totalmente gratuito.
 
-* Bandera de Surinam:
+**Contras:**
 
-![Sudamerica 3](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Suramerica3.png)
-
-Adicionalmente a los 13 territorios ubicados en el continente, existen regiones insulares con gobiernos propios que se pueden considerar sudamericanas:
-
-* Trinidad y Tobago
-* Aruba
-* Bonaire
-* Curazao
-* Islas Malvinas
-* Islas Georgias del Sur y Sandwich del Sur (otro territorio del que muchos desconocen su existencia)
+* Es necesario tener conocimientos de programación.
+* No soporta juegos 3D.
+* No tiene herramientas que permitan modificar algunas características de los assets.

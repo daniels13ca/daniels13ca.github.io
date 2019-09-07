@@ -1,38 +1,33 @@
 ---
 layout: post
-title: Los países desconocidos de Sudámerica
+title: La innovación como pilar en la creación de valor
 ---
 
-Para muchos colombianos (y creería que sudamericanos) el subcontinente esta compuesto por 10 países de los cuales el más grande es Brasil y el más pequeño Uruguay.
+La dificultad de las compañías para crear ventajas competitivas reales en la sociedad actual ha motivado a grandes organizaciones en cabeza de personajes excepcionales a centrar su estrategia de creación de valor en la innovación, concepto que se ha venido desarrollando desde hace más de 20 siglos en el campo militar.
 
-![Sudamerica 1](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Suramerica1.jpg)
+![Innovacion 1](https://github.com/daniels13ca/daniels13ca.github.io/blob/master/images/innovacion.png)
 
-Sin embargo esto no es cierto ya que en el continente se ubican tres territorios más, dos países independientes y un enclave colonial. Los 
-dos países son [Guyana](https://es.wikipedia.org/wiki/Guyana#Demograf.C3.ADa) y [Surinam](https://es.wikipedia.org/wiki/Surinam) y 
-el enclave corresponde a [Guyana Francesa](https://es.wikipedia.org/wiki/Guayana_Francesa) que esta constituido como un departamento de ultramar perteneciente a Francia,
+Evidentemente la compañía que logre desarrollar y ofrecer un producto o servicio que no se pueda replicar o imitar satisfactoriamente tendrá una ventaja competitiva con respecto a sus competidores.
 
-Los tres territorios tienen grandes diferencias demográficas con sus vecinos que se originan en la colonia, ya que al ser dominados por franceses, ingleses y neerlandeses desarrollaron una cultura muy diferente a la española o portuguesa propia de los 10 países más conocidos de la zona, de igual forma la inmigración en grandes cantidades de indios y otras poblaciones del sureste asiático que se dieron en los siglos XIX y XX han hecho que una buena parte de la población practiquen el hinduismo y el islamismo que son religiones minoritarias en los otros países.
+Sin embargo, actualmente es casi imposible desarrollar una ventaja competitiva real y mucho más si la empresa gira entorno a un único artículo, esta premisa fue puesta en práctica, por ejemplo por [Walt Disney](https://es.wikipedia.org/wiki/Walt_Disney), quien definió la creación de valor de su industria dedicada al entretenimiento como una sinergia entre una amplia gama de productos, entre los que incluyó desde música y videos hasta parques de atracciones, pero en el cual el eje central consistía en el talento creativo de su estudio.
 
-Estas marcadas diferencias se han trasladado incluso al campo deportivo ya que que ninguna de las federaciones de fútbol correspondientes a los tres territorios hacen parte de la [CONMEBOL](https://es.wikipedia.org/wiki/Confederaci%C3%B3n_Sudamericana_de_F%C3%BAtbol),
-están afiliadas a la [Unión Caribeña de Fútbol (CFU)](https://es.wikipedia.org/wiki/Uni%C3%B3n_Caribe%C3%B1a_de_F%C3%BAtbol) y que a 
-su vez esta subordinada a la [CONCACAF](https://es.wikipedia.org/wiki/Concacaf).
+Recientemente la concepción de Disney ha sido revalidada por compañías de gran éxito a nivel mundial como Apple, en la que [Steve Jobs](https://es.wikipedia.org/wiki/Steve_Jobs) fue mucho más allá de ofrecer computadores simplemente funcionales para pasar a ofrecer productos “con la elegancia de un Porsche y el excelente diseño de un accesorio de cocina”. Aparte de su capacidad de innovación Jobs se destacó por identificar y potenciar tecnologías que en otras compañías no eran explotadas adecuadamente, como la GUI desarrollada por Xerox.
 
-Por último incluso en las banderas de Guyana y Surinam se aprecia una desconexión cultural con el resto del continente ya que se 
-asemejan más en estructura y colores a las africanas o caribeñas.
+Disney y Jobs son la personificación del tipo de CEOs que buscan las grandes compañías actualmente, personajes que sobre su capacidad administrativa o conocimientos financieros (sin dejar estas aptitudes de lado) sobresalen por su capacidad de innovación.
 
-* Bandera de Guyana:
+Otro aspecto que tienen en común Disney y Apple, es que siguen las dos primeras reglas propuestas por Michael Raynor y Mumtaz Ahmed en su artículo “Three Rules for Making a Company Truly Great”:
 
-![Sudamerica 2](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Suramerica2.png)
+1. Mejor antes que Barato: Competir con diferenciadores que no sean el precio.
+2. Ingresos antes que costos: Priorizar el incremento de ingresos sobre la reducción de costos.
 
-* Bandera de Surinam:
+La primera de estas reglas ha llevado a las dos compañías a ofrecer productos y servicios que en la mayoría de los casos superar en precio a los de sus competidores, pero que están orientados a un segmento del mercado que les da un mayor valor y por lo tanto está dispuesto a pagar un alto precio por ellos.
 
-![Sudamerica 3](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Suramerica3.png)
+La segunda regla es una apuesta arriesgada en la que no se escatima en gastos con la esperanza de obtener mayores ingresos. Esta estrategia debe estar apalancada por un equipo innovador que constantemente este lanzado productos diferenciales, ya que si se cae en la monotonía los ingresos disminuirán o en el mejor de los casos se mantendrán constantes, obligando a la compañía a reducir costos para mejorar sus utilidades.
 
-Adicionalmente a los 13 territorios ubicados en el continente, existen regiones insulares con gobiernos propios que se pueden considerar sudamericanas:
+Es interesante destacar que una de las divisiones de Walt Disney Company que está constantemente innovando es [Pixar](https://es.wikipedia.org/wiki/Pixar), estudio de animación en el que la mayoría de sus largometrajes han estado por lo menos nominados a una categoría de los premios Oscar y de la que uno de sus fundadores fue Steve Jobs.
 
-* Trinidad y Tobago
-* Aruba
-* Bonaire
-* Curazao
-* Islas Malvinas
-* Islas Georgias del Sur y Sandwich del Sur (otro territorio del que muchos desconocen su existencia)
+Podría parecer que la innovación ha cobrado importancia en la estrategia de las compañías durante la edad contemporánea, pero su relación con esta data de mucho tiempo atrás.
+
+Como lo menciona Herny Mintzberg et al. en su libro “El Proceso Estratégico”, Filipo II y Alejandro Magno en la  [batalla de Queronea](https://es.wikipedia.org/wiki/Batalla_de_Queronea) que se libró en el año 338 a.c. actuaron de manera disruptiva y lograron vencer a Atenas, Tebas y sus aliados mediante una estrategia elaborada y novedosa  lo cual conllevo a la creación de la Liga de Corinto y el dominio macedonio de gran parte de los estados griegos.
+
+Desde entonces la innovación en la estrategia militar en conjunto con otros conceptos como formación, disciplina y rapidez ha sido determinante en la resolución de muchas batallas a lo largo de la historia.

@@ -29,7 +29,7 @@ Este periodista no indagó la veracidad y confiabilidad de su fuente (algo que s
 
 Además  en el mismo artículo que él cita, dice textualmente:
 
-> Si bien el ranking no aparece en la página de la FIFA (solamente circula un foto de un listado), la noticia armó un gran revuelo, ya que en la misma se confeccionó una nómina con las mejores 30 hinchadas en el mundo.
+> Si bien el ranking no aparece en la página de la FIFA (solamente circula una foto de un listado), la noticia armó un gran revuelo, ya que en la misma se confeccionó una nómina con las mejores 30 hinchadas en el mundo.
 
 Es decir que este periodista no solo no consultó una fuente sería, tampoco entendió lo que leía.
 

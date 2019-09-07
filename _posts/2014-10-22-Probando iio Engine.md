@@ -3,7 +3,7 @@ layout: post
 title: Probando iio Engine
 ---
 
-Existen diferentes motores de juegos de video, desde los más complejos como [Unity](https://es.wikipedia.org/wiki/Unity_(motor_de_videojuego)) hasta otros muchos más sencillos que son librerías de JavaScript; En esta ocasión he decidido implementar un juego utilizando un framework para HTMLL y Javascript.
+Existen diferentes motores de juegos de video desde los más complejos como [Unity](https://es.wikipedia.org/wiki/Unity_(motor_de_videojuego)) hasta otros muchos más sencillos que son librerías de JavaScript; en esta ocasión he decidido implementar un juego utilizando un framework para HTMLL y Javascript.
 
 ![iio 1](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/iio1.png)
 

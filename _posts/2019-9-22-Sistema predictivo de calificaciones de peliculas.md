@@ -16,3 +16,9 @@ Para esto me base en el o en los géneros de las películas según [The Movie DB
 * Palabras claves del resumen
 
 Si desean contribuir a enriquecer la base de datos lo pueden hacer diligenciando el siguiente formulario: [Calificación de película](https://docs.google.com/forms/d/e/1FAIpQLScshxk1xVHUhSrvnDOmbjqvz9subYMHC9k2D9Bzdiu3t1uIXQ/viewform)
+
+La primera versión de este proyecto se puede encontrar en: **(Hacer clic en la imagen)**
+
+[![Ratingpelis](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Peliculas.JPG)](https://daniels13ca.shinyapps.io/Ratingpelis/)
+
+*Repositorio:*  https://github.com/daniels13ca/PredictorPeliculas

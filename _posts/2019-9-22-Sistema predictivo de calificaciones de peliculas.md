@@ -22,3 +22,5 @@ La primera versión de este proyecto se puede encontrar en: *(Hacer clic en la i
 [![Ratingpelis](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Peliculas.JPG)](https://daniels13ca.shinyapps.io/Ratingpelis/)
 
 **Repositorio:**  [Código fuente](https://github.com/daniels13ca/PredictorPeliculas)
+
+*Nota:* Se recomienda reducir el zoom del navegador al 90%

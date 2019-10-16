@@ -4,6 +4,7 @@ title: Enseñanza
 permalink: /Teaching/
 published: true
 ---
+*(Se recomienda abrir los enlaces en una nueva pestaña)*
 
 ## Escuela de Artes y Letras
 

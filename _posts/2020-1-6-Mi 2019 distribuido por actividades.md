@@ -6,6 +6,7 @@ title: Mi 2019 distribuido por actividades
 El año pasado decidí registrar para posteriormente analizar en que grupo de actividades gastaba mi tiempo, el primer paso consitió en determinar una cantidad razonable de categorías para agrupar todo lo que hice día a día.
 
 Finalmente llegué a tener 8 categorías:
+
 **Familia:** Asistencia a eventos familiares como cenas, cumpleaños, velorios, etc.
 
 **Transporte:** Tiempo gastado en cualquier medio de transporte o esperando para hacer trasbordos

@@ -17,5 +17,8 @@ Finalmente llegué a tener 8 categorías:
 
 Al finalizar el año la distribución mensual de horas en cada categoría fue la siguiente:
 
+![Total mensual de horas por actividades](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/TotalHoras.JPG)
 
 Y los porcentajes de dedicación total a cada categoría fueron:
+
+![Porcentaje total de horas por actividades](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/PorcentajeHoras.JPG)

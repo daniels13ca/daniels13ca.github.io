@@ -9,4 +9,6 @@ Ya en el año 2017 se encontraba en internet el artículo [El injusto sistema de
 
 Si se hubiera elegido el sistema que yo simulé la situación en los últimos 20 años, comparada con la que se presentó, hubiera sido la siguiente: 
 
+![Promedios adecuadamente calculados](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Promedios.JPG)
+
 En general, no se hubieran presentado muchos cambios con respecto a la situación real y a diferencia de la creencia popular los equipos beneficiados por el sistema implementado por la Dimayor no han sido los grandes.

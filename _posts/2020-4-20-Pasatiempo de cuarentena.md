@@ -1,8 +1,20 @@
 ---
 layout: post
-title: Consumo de datos móviles 2018-2019
+title: Pasatiempo de cuarentena
 ---
 
-Durante los dos últimos años se ha incrementado el número de servicios para ser consumidos a través de teléfonos celulares, en mi caso personal esto se ha reflejado en el incremento constante de la cantidad de datos que consumo mes a mes.
+Luego de más de un mes en cuarentena se hace necesario buscar pasatiempos para romper la rutina y tener algo diferente en lo que pensar, en mi caso encontré en twitter algunos concursos de diseño de camisetas de equipos de fútbol. Hasta el momento no he estado dentro de los ganadores pero he conseguido mi objetivo: Quitarle algunas horas al largo encierro.
 
-![Consumo de datos mensuales 2018-2019](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/DataUsage2018-2019.png)
+Los diseños con los que he participado son los siguientes:
+
+***Deportivo Pereira (Visitante - Marca propia)***
+
+![Deportivo Pereira (Visitante - Marca propia)](https://pbs.twimg.com/media/EVL2kruWkAUnXzc?format=jpg&name=4096x4096)
+
+***Envigado (Visitante - Marca propia)***
+
+![Envigado (Visitante - Marca propia)](https://pbs.twimg.com/media/EVlaZuXX0AUBfjD?format=jpg&name=large)
+
+***Atlético Nacional (Tercera equipación - Umbro)***
+
+![Atlético Nacional (Tercera equipación - Umbro)](https://pbs.twimg.com/media/EV5thmSXkAEP0lx?format=jpg&name=large)

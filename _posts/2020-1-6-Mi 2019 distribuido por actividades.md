@@ -1,21 +1,33 @@
 ---
 layout: post
-title: Pasatiempo de cuarentena
+title: Mi 2019 distribuido por actividades
 ---
 
-Luego de más de un mes en cuarentena se hace necesario buscar pasatiempos para romper la rutina y tener algo diferente en lo que pensar, en mi caso encontré en twitter algunos concursos de diseño de camisetas de equipos de fútbol. Hasta el momento no he estado dentro de los ganadores pero he conseguido mi objetivo: Quitarle algunas horas al largo encierro.
+El año pasado decidí registrar para posteriormente analizar en que grupo de actividades gastaba mi tiempo, el primer paso consitió en determinar una cantidad razonable de categorías para agrupar todo lo que hice día a día.
 
-Los diseños con los que he participado son los siguientes:
+Finalmente llegué a tener 8 categorías:
 
-***Deportivo Pereira (Visitante - Marca propia)***
+**Familia:** Asistencia a eventos familiares como cenas, cumpleaños, velorios, etc.
 
-![Deportivo Pereira (Visitante - Marca propia)](https://pbs.twimg.com/media/EVL2kruWkAUnXzc?format=jpg&name=4096x4096)
+**Transporte:** Tiempo gastado en cualquier medio de transporte o esperando para hacer trasbordos
 
-***Envigado (Visitante - Marca propia)***
+**Ocio:**  Actividades de esparcimiento como entrenamiento, idas a cine, lectura, etc.
 
-![Envigado (Visitante - Marca propia)](https://pbs.twimg.com/media/EVlaZuXX0AUBfjD?format=jpg&name=large)
+**Freelance:** Tiempo invertido a actividades laborales no relacionadas con mi trabajo principal 
 
-***Atlético Nacional (Tercera equipación - Umbro)***
+**Trabajo:** Actividades directamente relacionadas con mi trabajo principal
 
-![Atlético Nacional (Tercera equipación - Umbro)](https://pbs.twimg.com/media/EV5thmSXkAEP0lx?format=jpg&name=large)
+**Dormir:** Tiempo dedicado a dormir
+
+**Actividades de casa:** Actividades relacionadas con labores domésticas, aseo personal, asistencia a citas médicas, etc.
+
+**Estudio:** Horas invertidas en estudio, ya se educación presencial o virtual
+
+Al finalizar el año la distribución mensual de horas en cada categoría fue la siguiente:
+
+![Total mensual de horas por actividades](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/TotalHoras.JPG)
+
+Y los porcentajes de dedicación total a cada categoría fueron:
+
+![Porcentaje total de horas por actividades](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/PorcentajeHoras.JPG)
 

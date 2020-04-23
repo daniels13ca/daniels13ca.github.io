@@ -10,7 +10,7 @@ Ingeniero de Sistemas y Magister en Ingeniería Industrial con 8 años de experi
 
 Poseo conocimientos técnicos en IBM SPSS Statistics y Modeler, Anylogic, LPSolve, R, Python, Knime, Power BI entre otras herramientas, y metodologías como UML, BPM, CRISP-DM y SCRUM.
 
-**Hoja de vida**
+[**Hoja de vida**](https://github.com/daniels13ca/daniels13ca.github.io/blob/master/files/Daniel%20Silva%20-%20HV%20(Espa%C3%B1ol).pdf)
 
 ### Contacto
 

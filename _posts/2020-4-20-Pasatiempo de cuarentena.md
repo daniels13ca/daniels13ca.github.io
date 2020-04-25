@@ -18,3 +18,7 @@ Los diseños con los que he participado son los siguientes:
 ***Atlético Nacional (Tercera equipación - Umbro)***
 
 ![Atlético Nacional (Tercera equipación - Umbro)](https://pbs.twimg.com/media/EV5thmSXkAEP0lx?format=jpg&name=large)
+
+***Deportes Tolima (Rediseño de imagen - Adidas)***
+
+![Deportes Tolima (Rediseño de imagen - Adidas)](https://pbs.twimg.com/media/EWUVmCnUEAIL_jP?format=jpg&name=4096x4096)

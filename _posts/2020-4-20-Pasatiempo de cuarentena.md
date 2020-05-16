@@ -22,3 +22,7 @@ Los diseños con los que he participado son los siguientes:
 ***Deportes Tolima (Rediseño de imagen - Adidas)***
 
 ![Deportes Tolima (Rediseño de imagen - Adidas)](https://pbs.twimg.com/media/EWUVmCnUEAIL_jP?format=jpg&name=4096x4096)
+
+***Boyacá Chico (Visitante innovdora - Marca propia)***
+
+![Boyacá Chico (Visitante innovdora - Marca propia)](https://pbs.twimg.com/media/EWx4qlKXkAAfJy5?format=jpg&name=4096x4096)

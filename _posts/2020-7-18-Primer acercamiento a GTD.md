@@ -7,11 +7,11 @@ El GTD [(Getting Things Done)](https://es.wikipedia.org/wiki/Getting_Things_Done
 
 Para esto propone un flujo de actividades que deberían surtir todas las tareas a hacer:
 
-![GTD](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Iglesia-0.jpg)
+![GTD](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/GTD.png)
 
 Mi primer contacto con el método fue la explicación que hizo Jaime Altozano:
 
-[![GTD_youtube](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=fN4XZFrmy9Q)
+[![GTD_youtube](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/GTD_youtube.JPG)](https://www.youtube.com/watch?v=fN4XZFrmy9Q)
 
 Luego de ver el video y leer un poco sobre la teoróa, decidí comenzar a implenetarlo en una versión simplificada para mi vida personal (la laboral la he venido manejando bien con la agenda de Outlook y una planeación mensual de actividades a realizar). En mi versión simplificada escogí [Google Keep](https://keep.google.com/), ahí voy agragando notas de las cosas que me van surgiendo durante el día.
 

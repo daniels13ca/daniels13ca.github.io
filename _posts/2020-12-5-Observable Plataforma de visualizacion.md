@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Observable: Plataforma de visualización
+title: Observable Plataforma de visualización
 ---
 
 El mes anterior participé en un [Laboratorio de visualización de datos](https://idartes.gov.co/es/noticias/laboratorio-virtual-visualizacion-datos-artefuncional) organizado por IDARTES.

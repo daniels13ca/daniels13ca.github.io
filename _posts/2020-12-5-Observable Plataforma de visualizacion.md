@@ -9,8 +9,7 @@ La herramienta seleccionada para implementar las visualizaciones fue [Observable
 
 En mi caso el prototipo en el que trabajé durante el laboratorio consistió en caracaterizar la [deserción estudiantil de colegios oficiales por UPZ (en la ciudad de Bogotá](https://observablehq.com/@daniels13ca/desercion-estudiantil-en-colegios-oficiales-de-bogota):
 
-<iframe width="100%" height="2138" frameborder="0"
-  src="https://observablehq.com/embed/@daniels13ca/desercion-estudiantil-en-colegios-oficiales-de-bogota?cell=viewof+slider&cell=canvas&cell=hombres&cell=mujeres"></iframe>
+
 
 
 

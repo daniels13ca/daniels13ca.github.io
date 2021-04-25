@@ -6,10 +6,10 @@ published: true
 ---
 *(Se recomienda abrir los enlaces en una nueva pestaña)*
 
-Ingeniero de Sistemas y Magister en Ingeniería Industrial con 8 años de experiencia profesional, en su mayoría enfocados en analítica de datos e inteligencia de negocios. He participado en proyectos de consultoría tecnologica y de negocios para organizaciones de diferentes sectores económicos como Seguros, Oil & Gas, Gubernamental y Retail; principalmente en actividaes de analísis de información, diseño funcional y mejoramiento de procesos utilizando métodos cuantitativos y cualitativos. Igualmente me he desempeñado como ingeniero preventa y postventa a nivel funcional y técnico de soluciones para análisis y minería de datos. Cuento con experiencia a nivel administrativo e investigativo en instituciones de educación superior.
+Cuento con 10 años de experiencia en análisis de datos, consultoría tecnológica y de negocios para empresas de diferentes sectores económicos como Educativo, Seguros, Oil & Gas, Gubernamental y Retail. Principalmente en actividades de análisis de requerimientos, diseño funcional y mejoramiento de procesos a partir del análisis de información utilizando métodos cualitativos y cuantitativos, entre los que se encuentran técnicas de inteligencia de negocios y minería de datos. Me he desempeñado como ingeniero de preventa y postventa a nivel funcional y técnico de soluciones para análisis estadístico y minería de datos. He participado en proyectos de investigación en temas relacionados con innovación, emprendimiento y educación.
 
 
-Poseo conocimientos técnicos en IBM SPSS Statistics y Modeler, Anylogic, LPSolve, R, Python, Knime, Power BI entre otras herramientas, y metodologías como UML, BPM, CRISP-DM y SCRUM.
+Poseo conocimientos técnicos en Microsoft Poer BI, IBM SPSS Statistics y Modeler, Anylogic, LPSolve, R, Python, Knime entre otras herramientas, y metodologías como UML, BPM, CRISP-DM y SCRUM.
 
 [**Hoja de vida**](https://github.com/daniels13ca/daniels13ca.github.io/blob/master/files/Daniel%20Silva%20-%20HV%20Espanol.pdf)
 

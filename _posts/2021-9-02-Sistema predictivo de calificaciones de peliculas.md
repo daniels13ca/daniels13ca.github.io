@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Sistema predictivo de calificaciones de películas
+title: Sistema predictivo de calificaciones de películas (Actualización)
 ---
+
+**Actualización 02/09/2021: He creado un nuevo look & feel que viene atado a una organización del código fuente para hacerlo más legible. A su vez he agregado nuevas películas a la base de datos.**
 
 A raíz de lo poco acertadas que resultaban ser las calificaciones que los sitios de ratings más populares le daban a las películas frente a mi opinión personal, lo cual me llevaba a ver películas que no satisfacían mis expectativas, decidí crear mi propio sistema de calificación y a la vez un predictor de la posible calificación que yo le otorgaría a la película.
 
@@ -19,7 +21,7 @@ Si desean contribuir a enriquecer la base de datos lo pueden hacer diligenciando
 
 La primera versión de este proyecto se puede encontrar en: *(Hacer clic en la imagen)*
 
-[![Ratingpelis](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Peliculas.JPG)](https://daniels13ca.shinyapps.io/Ratingpelis/)
+[![Ratingpelis](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Peliculas.JPG)](https://daniels13ca.shinyapps.io/PredictorPeliculas/)
 
 **Repositorio:**  [Código fuente](https://github.com/daniels13ca/PredictorPeliculas)
 

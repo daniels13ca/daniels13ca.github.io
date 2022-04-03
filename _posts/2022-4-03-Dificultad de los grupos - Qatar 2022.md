@@ -8,7 +8,7 @@ Es bien sabido que el [Ranking FIFA de selecciones](https://www.fifa.com/es/fifa
 
 Partiendo de esta premisa quise ver que tan fuertes son los equipos que conforman cada grupo para intentar identificar algún posible "grupo de la muerte" obteniendo el siguiente resultado:
 
-[Ranking ELO por grupos](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/ELO_grupo.png)
+![Ranking ELO por grupos](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/ELO_grupo.png)
 
 Vale la pena aclarar que aún existen grupos que no estan totalmente definidos, en esos casos incluí todos los posibles equipos que pueden conformarlos.
 
@@ -16,7 +16,7 @@ Si bien no se identifica claramente un grupo teóricamente más difícil, si exi
 
 Tambíen quise hacer el mismo ejercicio para los equipos clasificados por confederación obteniendo el siguiente resultado:
 
-[Ranking ELO por grupos](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/ELO_confederacion.png)
+![Ranking ELO por grupos](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/ELO_confederacion.png)
 
 De ahí me surgió la idea de verificar el mito de "la clasificación CONMEBOL es la más dura del mundo", para ello tuve en cuenta la media de poder de los equipos clasificados y el porcentaje de selecciones que logran clasificar. Con lo cual construí la siguiente razón:
 

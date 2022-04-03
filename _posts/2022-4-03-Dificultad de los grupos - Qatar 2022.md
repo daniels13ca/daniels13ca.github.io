@@ -20,7 +20,7 @@ Tambíen quise hacer el mismo ejercicio para los equipos clasificados por confed
 
 De ahí me surgió la idea de verificar el mito de "la clasificación CONMEBOL es la más dura del mundo", para ello tuve en cuenta la media de poder de los equipos clasificados y el porcentaje de selecciones que logran clasificar. Con lo cual construí la siguiente razón:
 
-$$Dificultad = \frac{\text{Media Elo Clasificados}}{\text{Porc. que Clasifica}}$$ 
+***Dificultad = Media ELO Clafisicados / Porc. que Clasifica***
 
 El resultado final es el siguiente:
 
@@ -32,3 +32,4 @@ El resultado final es el siguiente:
 |***AFC***            |11,96%    |1664,29    |139,19     |
 |***UEFA***           |23,64%    |1927,27    |81,50      |
 |***CONMEBOL***       |45,00%    |1909,80    |42,44      |
+

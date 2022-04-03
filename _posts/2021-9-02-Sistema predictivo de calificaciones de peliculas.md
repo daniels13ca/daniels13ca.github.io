@@ -19,7 +19,7 @@ Para esto me base en el o en los géneros de las películas según [The Movie DB
 
 * Palabras claves del resumen
 
-Si desean contribuir a enriquecer la base de datos lo pueden hacer diligenciando el siguiente formulario: [Calificación de película](https://docs.google.com/forms/d/e/1FAIpQLScshxk1xVHUhSrvnDOmbjqvz9subYMHC9k2D9Bzdiu3t1uIXQ/viewform)
+Si desean contribuir a enriquecer la base de datos lo pueden hacer diligenciando el siguiente formulario: [Calificación de película](https://docs.google.com/forms/d/e/1FAIpQLSfljkQa5eGWr44ejqInwIIgGBfL65mTyYqUM2MJNsn8K17iPQ/viewform)
 
 La primera versión de este proyecto se puede encontrar en: *(Hacer clic en la imagen)*
 

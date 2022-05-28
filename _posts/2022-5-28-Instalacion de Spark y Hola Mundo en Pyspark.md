@@ -1,5 +1,3 @@
-# Instalación de Spark y Hola Mundo en Pyspark
-
 El objetivo de este tutorial es mostrar el paso a paso para la instalación de un ambiente Spark (incluyendo Pyspark) en Windows 10/11 utilizando [WSL](https://es.wikipedia.org/wiki/Windows_Subsystem_for_Linux), y la creación de un primer ejemplo sencillo de su utilización.
 
 ## Instalación de Ubuntu sobre WSL

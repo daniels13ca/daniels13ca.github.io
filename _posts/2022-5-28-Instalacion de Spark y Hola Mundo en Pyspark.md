@@ -1,3 +1,8 @@
+---
+layout: post
+title: Instalación de Spark y "Hola Mundo" en Pyspark
+---
+
 El objetivo de este tutorial es mostrar el paso a paso para la instalación de un ambiente Spark (incluyendo Pyspark) en Windows 10/11 utilizando [WSL](https://es.wikipedia.org/wiki/Windows_Subsystem_for_Linux), y la creación de un primer ejemplo sencillo de su utilización.
 
 ## Instalación de Ubuntu sobre WSL
@@ -50,7 +55,7 @@ Pedirá la contraseña previamente definida para el usuario root.
 
 2. *Instalar Java*: `sudo apt install default-jre`
 
-En todos los momentos en los que pida confirmación, esta se da con `Y`
+En todos los momentos en los que pida confirmación, está se da con `Y`
 
 3. *Instalar el JRE:* `sudo apt install openjdk-11-jre`
 
@@ -106,61 +111,57 @@ De la cual se sale con `:q`
 
 ## Instalación de Pyspark
 
-`sudo apt install python3`
+1. *Instalar Python 3:* `sudo apt install python3`
 
-`sudo apt install python3-pip`
+2. *Instalar PIP:* `sudo apt install python3-pip`
 
-y darle `Y`
+En todos los momentos en los que pida confirmación, esta se da con `Y`. Este paso toma algunos minutos.
 
-se demora un poco
+3. *Anañadir variables de entorno:* Abrir [nano](https://es.wikipedia.org/wiki/GNU_Nano) con `nano .bashrc`, ir hasta el final desplazandose con las flechas y con `Crtl+V` pegar lo siguiente:
 
-`nano .bashrc`
-
-vamos al final con las flechas y pegamos con `Ctrl+V`
 
 `export PYSPARK_PYTHON=/usr/bin/python3`
 
-cerramos con `Ctrl+X` guardamos con `Y` y `Enter`
+Salir de nano con `Ctrl+X`, guardar los cambios con  `Y` y `Enter`
 
-`cat .bashrc`
+4. *Validar la modificación del archivo:* `cat .bashrc`
 
-`source .bashrc`
+5. *Recargar el archivo .bashrc*: `source .bashrc`
 
-`sudo pip install pyspark`
+6. *Instalar Pyspark:* Mediante el comando `sudo pip install pyspark`
 
-se demora un poco
+7. *Recargar el archivo .bashrc*: `source .bashrc`
 
-`source .bashrc`
+Ahora se puede validar la instalación con el comando `pyspark`
 
-`pyspark`
+A diferencia de la ocasión anterios se ingresará a una consola Pthon:
 
-Imagen_14
+<img src="https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Spark_14.png" alt="Spark 14"/>
 
-`Ctrl+D` para salir
+`Ctrl+D` para salir.
 
 ## Integración con Visual Studio Code
 
-tener instalado anaconda, visual studio code con extensiones:
+**Prerequisitos:** Tener instalado:
+- Anaconda
+- Visual Studio Code con las extensiones:
+  - Python
+  - Jupyter
+  - Remote – WSL
 
-- Python
-- Jupyter
-- Remote – WSL
+1. En la consola de Ubuntu ejecutar el comando `code .` y agregar esta carpeta como segura:
 
+<img src="https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Spark_15.png" alt="Spark 15"/>
 
-ahora con en la consola de ubuntu:
-`code .`
+En caso que no aparezca la terminal, teclear `Ctrl+Ñ`. Se verá que se esta en el entorno linux y se tiene la consola corresponiente.
 
-Imagen_15
-
-en caso que no aparezca la terminal darle `Ctrl+Ñ`
-
-se verá que se esta en el entorno linux y se tiene la consola corresponiente
-
-Imagen_16
+<img src="https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Spark_16.png" alt="Spark 16"/>
 
 Crear un carpeta llamada `HolaMundo` y ubicarse en ella:
 
-Imagen_17
+<img src="https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/Spark_17.png" alt="Spark 17"/>
 
-en esta carpeta crear el archivo HolaMundo.ipynb e instalar las extensiones que recomiende
+## Integración con Visual Studio Code
+
+En esta carpeta crear el archivo `HolaMundo.ipynb` e instalar las extensiones que recomiende.
 

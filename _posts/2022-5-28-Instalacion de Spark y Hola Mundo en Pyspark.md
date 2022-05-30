@@ -165,7 +165,7 @@ Crear un carpeta llamada `HolaMundo` y ubicarse en ella:
 
 En esta carpeta crear el archivo `HolaMundo.ipynb` e instalar las extensiones que recomiende. 
 
-En este archivo ya es posible utilizar todas las características de Pyspark, un demo se encuentra en el archivo [Hola Mundo en Pyspark](https://es.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
+En este archivo ya es posible utilizar todas las características de Pyspark, un demo se encuentra en el archivo [Hola Mundo en Pyspark](https://github.com/daniels13ca/daniels13ca.github.io/blob/master/files/HolaMundo.ipynb)
 
 
 

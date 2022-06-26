@@ -3,6 +3,15 @@ layout: post
 title: Dificultad de los grupos - Qatar 2022
 ---
 
+**Actualización luego de los repechajes intercontinentales**
+
+Luego de jugados los repechajes que le dieron los últimos cupos a Costa Rica y Nueva Zelanda, la puntuación ELO de los equiposse vio afectada teniendo las siguientes repercusiones para los grupos del mundial:
+
+![Ranking ELO por grupos](https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/ELO_grupo_1.png)
+
+Aunque se han incrementado las diferencias entre sus integrantes, el grupo B continua siendo el más parejo.
+
+________________________
 
 Es bien sabido que el [Ranking FIFA de selecciones](https://www.fifa.com/es/fifa-world-ranking/men?dateId=id13603) tiene fallas estrucutrales que hacen que no refleje el poder actual de los equipos, ante esto existe una versión del [Ranking ELO](https://www.eloratings.net/) el cual si permite establecer cual selección se encuentra en un mejor nivel a partir de sus resultados y el nivel de los equipos contra los que los obtuvo.
 

@@ -11,6 +11,8 @@ Cuento con 12 años de experiencia en análisis de información, consultoría te
 
 Me he desempeñado como ingeniero de preventa y postventa a nivel funcional y técnico de soluciones para análisis estadístico y minería de datos. He participado en proyectos de investigación en temas relacionados con innovación, emprendimiento y educación.
 
+<img src="https://raw.githubusercontent.com/daniels13ca/daniels13ca.github.io/master/images/AWS_Certified.png" alt="AWS Certified"/>
+
 [**Hoja de vida**](https://github.com/daniels13ca/daniels13ca.github.io/blob/master/files/Daniel%20Silva%20-%20HV%20Espanol.pdf)
 
 ### Contacto

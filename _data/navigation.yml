@@ -1,0 +1,4 @@
+# Menú de navegación principal
+main:
+  - title: "Home"
+    url: /

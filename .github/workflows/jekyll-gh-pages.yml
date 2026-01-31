@@ -2,7 +2,7 @@ name: Deploy Jekyll with GitHub Pages dependencies preinstalled
 
 on:
   push:
-    branches: ["main"] # Asegúrate de que tu rama se llame main o cambia esto a master
+    branches: ["master"] # Asegúrate de que tu rama se llame main o cambia esto a master
 
 permissions:
   contents: read

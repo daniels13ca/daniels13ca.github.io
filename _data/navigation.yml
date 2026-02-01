@@ -1,4 +1,9 @@
-# Menú de navegación principal
 main:
   - title: "Home"
     url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "About Me"
+    url: /about/
+  - title: "Blog"
+    url: /posts/

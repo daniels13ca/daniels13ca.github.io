@@ -88,11 +88,10 @@ defaults:
 
 # Site Author
 author:
-  name   : "Daniel Silva Barrera"
-  avatar : "/assets/images/foto.jpg" # Luego la subiremos
-  bio    : "Lead of Analytical Strategy | Data & AI Product Manager | Data & Analytics Project Manager"
+  #name   : "Daniel Silva Barrera"
+  avatar : "/assets/images/foto.jpg" 
+  bio    : "Lead of Analytical Strategy - Data & AI Product Manager
   location: "Bogotá, Colombia"
-  email  : "silvdaniel@gmail.com"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"

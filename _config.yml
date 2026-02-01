@@ -88,9 +88,9 @@ defaults:
 
 # Site Author
 author:
-  name   : "MSc Daniel Silva Barrera"
+  #name   : "MSc Daniel Silva Barrera"
   avatar : "/assets/images/foto.jpg" 
-  bio    : "Lead of Analytical Strategy - Data & AI Product Manager
+  bio    : "Lead of Analytical Strategy - Data & AI Product Manager"
   location: "Bogotá, Colombia"
   links:
     - label: "GitHub"

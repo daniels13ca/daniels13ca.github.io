@@ -1,0 +1,17 @@
+1. Gestión de Gemas y Dependencias
+Usa estos comandos cuando modifiques el archivo Gemfile.
+
+bundle install: Instala todas las gemas (plugins y temas) listadas en tu Gemfile. Úsalo la primera vez o cuando añadas un plugin nuevo.
+
+bundle update: Actualiza las gemas a su versión más reciente permitida. Es útil si algo falla en GitHub Actions por versiones antiguas.
+
+2. El Servidor Local
+Para ver tus cambios en tiempo real antes de subirlos.
+
+bundle exec jekyll serve: Lanza el servidor local. Podrás ver tu web en http://127.0.0.1:4000.
+
+bundle exec jekyll serve --livereload: Igual que el anterior, pero refresca el navegador automáticamente cada vez que guardas un archivo (muy útil para diseño).
+
+bundle exec jekyll clean: Borra las carpetas _site (donde se guarda la web compilada) y .jekyll-cache
+
+Ctrl + C: Detiene el servidor local. Recuerda hacerlo siempre que edites el _config.yml.

@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-author_profile: false
+author_profile: true
 ---
 
 <div style="text-align: center;">

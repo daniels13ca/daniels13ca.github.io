@@ -53,7 +53,7 @@ feed:
   path: atom.xml
 
 
-minimal_mistakes_skin: "aqua" # O el color que prefieras: air, aqua, dark, etc.
+minimal_mistakes_skin: "air" # O el color que prefieras: air, aqua, dark, etc.
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -85,3 +85,24 @@ defaults:
       layout: "single"
       author_profile: true
       breadcrumbs: false # ESTO ELIMINA EL TEXTO DE ARRIBA
+
+# Site Author
+author:
+  name   : "Daniel Silva Barrera"
+  avatar : "/assets/images/foto.jpg" # Luego la subiremos
+  bio    : "Lead of Analytical Strategy | Data & AI Product Manager | Data & Analytics Project Manager"
+  location: "Bogotá, Colombia"
+  email  : "silvdaniel@gmail.com"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/daniels13ca"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/danielsilvabarrera"
+    - label: "Twitter (X)"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/daniels13ca"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:silvdaniel@gmail.com" 

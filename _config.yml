@@ -76,8 +76,8 @@ minimal_mistakes_skin: "air" # O el color que prefieras: air, aqua, dark, etc.
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# Forzar a que no busque posts para el home
-paginate: false
+include:
+  - _pages
 
 defaults:
   - scope:

@@ -28,4 +28,4 @@ During my time at **Accenture**, I **participated** in key projects for global c
 
 ---
 
-### [Download my Full Resume (PDF)](/assets/docs/CV_Daniel_Silva.pdf) {: .btn .btn--primary}
+<a href="/assets/docs/CV_Daniel_Silva.pdf" class="btn btn--primary">Download my Full Resume (PDF)</a>

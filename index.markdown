@@ -1,11 +1,9 @@
 ---
-layout: single
-permalink: /
+layout: home
 author_profile: true
+header:
+  overlay_image: /assets/images/ai-strategy-business-value.png
+  overlay_filter: 0.5 # Esto hace que el texto sobre la imagen se lea mejor
+  caption: "Strategic Leader in AI & Analytics"
+excerpt: "Bridging the gap between complex Data Science and high-impact business decisions."
 ---
-
-Welcome! I am Daniel Silva. I specialize in bridging the gap between complex analytical models and business strategy.
-
-<img src="{{ '/assets/images/under-construction.png' | relative_url }}" alt="Under Construction" style="width:100%;">
-
-*This site is currently being updated with my latest projects. Come back soon!*

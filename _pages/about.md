@@ -15,9 +15,9 @@ I am a **Lead of Analytical Strategy** and **Data & AI Product Manager** with ov
 * **Digital Transformation**: Driving organizational change through Generative AI training and data-driven cultural shifts.
 
 ## Professional Journey
-My most recent challenge was as the **Head of Artificial Intelligence at Banesco Panamá**, where I led the Data Science and ML teams in developing predictive models for market trends and financial risks. 
+In my most recent role as **Head of Artificial Intelligence**, I led the data science and machine learning team in the deployment of high-impact AI initiatives. My focus was on identifying and tailoring AI solutions to meet the needs of different business areas, from operational processes to digital transformation products.
 
-During my time at **Accenture**, I **participated** in key projects for global clients like Nutresa and Avianca, focusing on marketing analytics and natural language processing (NLP) pipelines.
+Previously, I **participated** in large-scale analytical roadmaps and digital transformation projects for global organizations. My role involved applying advanced Machine Learning techniques to generate actionable insights and optimize information processing tailored to specific business objectives.
 
 ## Education & Expertise
 * **MSc in Industrial Engineering** – Xaverian Pontifical University

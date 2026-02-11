@@ -3,6 +3,7 @@ title: "AI with Purpose: Moving from Experimentation to Real Value"
 header:
   overlay_image: /assets/images/ai-strategy-business-value.png
   teaser: /assets/images/ai-strategy-business-value.png
+  image_size: large
 excerpt: "In an ecosystem saturated with GenAI hype, the key to success lies not in the technology itself..."
 categories:
   - Strategy

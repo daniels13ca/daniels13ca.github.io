@@ -87,23 +87,23 @@ defaults:
 
 # Site Author
 author:
-  name   : "Lead of Analytical Strategy"
+  name   : "Daniel Silva Barrera"
   avatar : "/assets/images/foto.jpg" 
-  bio    : "Data & AI Product Manager"
-  location: "Bogotá, Colombia"
+  bio    : "Head of AI | AI Product Manager"
+  location: "Bogotá, Colombia 🇨🇴"
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/daniels13ca"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/danielsilvabarrera"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/daniels13ca"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:silvdaniel@gmail.com"
     - label: "Twitter (X)"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/daniels13ca"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:silvdaniel@gmail.com" 
 
 # Site Settings
 site_favicon: "/assets/images/favicon.png"

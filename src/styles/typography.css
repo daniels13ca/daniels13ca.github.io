@@ -8,7 +8,7 @@
   h4,
   h5,
   h6 {
-    @apply wrap-break-word;
+    @apply break-words;
   }
 
   h1,
@@ -63,7 +63,7 @@
     }
 
     :where(a):not(:where(.not-prose, .not-prose *)) {
-      @apply text-foreground decoration-muted-foreground hover:decoration-foreground font-medium wrap-break-word underline underline-offset-[3px] transition-colors;
+      @apply text-foreground decoration-muted-foreground hover:decoration-foreground font-medium break-words underline underline-offset-[3px] transition-colors;
     }
 
     :where(strong):not(:where(.not-prose, .not-prose *)) {
@@ -88,11 +88,11 @@
     }
 
     :where(code):not(:where(.not-prose, .not-prose *)) {
-      @apply bg-muted/50 text-foreground relative rounded-sm px-[0.3rem] py-[0.2rem] text-sm font-medium wrap-break-word;
+      @apply bg-muted/50 text-foreground relative rounded-sm px-[0.3rem] py-[0.2rem] text-sm font-medium break-words;
     }
 
     :where(.shiki):not(:where(pre *, .not-prose, .not-prose *)) {
-      @apply bg-muted/50! text-foreground relative rounded-sm px-[0.3rem] py-[0.2rem] text-sm font-medium wrap-break-word;
+      @apply bg-muted/50! text-foreground relative rounded-sm px-[0.3rem] py-[0.2rem] text-sm font-medium break-words;
     }
 
     :where(.shiki code):not(:where(.not-prose, .not-prose *)) {
@@ -129,7 +129,7 @@
     }
 
     :where(td):not(:where(.not-prose, .not-prose *)) {
-      @apply text-foreground/80 small px-4 py-2 align-top wrap-break-word *:first:mt-0! *:last:mb-0!;
+      @apply text-foreground/80 small px-4 py-2 align-top break-words *:first:mt-0! *:last:mb-0!;
       @apply text-left [[align=center]]:text-center [[align=right]]:text-right;
     }
 

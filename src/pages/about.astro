@@ -1,0 +1,61 @@
+---
+import Breadcrumbs from '@/components/breadcrumbs.astro'
+import Link from '@/components/link.astro'
+import PageHead from '@/components/page-head.astro'
+import Layout from '@/layouts/layout.astro'
+---
+
+<Layout class="max-w-3xl">
+  <PageHead slot="head" title="About" />
+  <Breadcrumbs items={[{ label: 'About', icon: 'lucide:info' }]} />
+
+  <section>
+    <div class="min-w-full">
+      <div class="prose mb-8">
+        <p class="mt-0">
+          I am a <strong>Head of AI</strong> and <strong>AI Product Manager</strong> with
+          more than a decade of experience connecting advanced analytics with
+          high-impact business decisions. My work sits at the intersection of
+          strategy, product thinking, and execution: helping teams move from
+          isolated experimentation to scalable AI capability.
+        </p>
+        <p>
+          Across banking, energy, and retail, I have led multidisciplinary
+          teams delivering AI initiatives, analytical roadmaps, and digital
+          transformation programs. I enjoy translating between technical depth
+          and executive priorities so that models, platforms, and processes all
+          contribute to measurable outcomes.
+        </p>
+        <h2>What I focus on</h2>
+        <ul>
+          <li>Designing AI and machine learning roadmaps tied to ROI and operational adoption.</li>
+          <li>Leading Data and AI products with a balance of technical quality, governance, and business impact.</li>
+          <li>Helping organizations build the processes, culture, and delivery discipline needed for sustainable AI.</li>
+        </ul>
+        <h2>Education and toolkit</h2>
+        <p>
+          My background includes an MSc in Industrial Engineering and a B.Eng.
+          in Systems Engineering from Pontificia Universidad Javeriana, plus
+          specialization in AI Product Management and MLOps.
+        </p>
+        <p>
+          I regularly work with Python, SQL, PySpark, cloud platforms, and the
+          operating practices that make analytics teams effective beyond the
+          prototype stage.
+        </p>
+      </div>
+
+      <div class="flex flex-wrap gap-3">
+        <Link href="/projects" underline>
+          Browse projects
+        </Link>
+        <Link href="/blog" underline>
+          Read posts
+        </Link>
+        <Link href="/docs/CV_Daniel_Silva.pdf" underline external>
+          Download resume
+        </Link>
+      </div>
+    </div>
+  </section>
+</Layout>

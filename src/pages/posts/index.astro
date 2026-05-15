@@ -1,0 +1,15 @@
+---
+import PageHead from '@/components/page-head.astro'
+import Layout from '@/layouts/layout.astro'
+---
+
+<Layout class="max-w-3xl">
+  <PageHead slot="head" title="Posts" noindex />
+  <meta slot="head" http-equiv="refresh" content="0;url=/blog/" />
+
+  <section class="prose max-w-none text-center">
+    <p>
+      Posts have moved to <a href="/blog/">/blog/</a>.
+    </p>
+  </section>
+</Layout>

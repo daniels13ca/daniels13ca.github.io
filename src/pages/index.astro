@@ -1,0 +1,97 @@
+---
+import BlogCard from '@/components/blog-card.astro'
+import Link from '@/components/link.astro'
+import PageHead from '@/components/page-head.astro'
+import ProjectCard from '@/components/project-card.astro'
+import { buttonVariants } from '@/components/ui/button'
+import { SITE } from '@/consts'
+import Layout from '@/layouts/layout.astro'
+import { getAllProjects, getRecentPosts } from '@/lib/data-utils'
+import { Image } from 'astro:assets'
+import profilePhoto from '../../public/images/foto.jpg'
+
+const blog = await getRecentPosts(SITE.featuredPostCount)
+const projects = (await getAllProjects()).slice(0, 2)
+---
+
+<Layout class="max-w-3xl">
+  <PageHead slot="head" title="Home" />
+
+  <section class="grid items-center gap-6 rounded-2xl border p-6 sm:grid-cols-[1.3fr_0.7fr]">
+    <div class="flex flex-col gap-4">
+      <p class="text-muted-foreground text-sm font-medium tracking-[0.18em] uppercase">
+        AI leadership, product thinking, and analytics
+      </p>
+      <div class="space-y-3">
+        <h1 class="text-4xl leading-tight font-medium sm:text-5xl">
+          Building AI strategies that create measurable business value.
+        </h1>
+        <p class="text-muted-foreground text-base sm:text-lg">
+          I am Daniel Silva Barrera, a Head of AI and AI Product Manager focused
+          on turning advanced analytics into decisions, products, and operating
+          results teams can actually use.
+        </p>
+      </div>
+      <div class="flex flex-wrap gap-3">
+        <Link href="/blog" class={buttonVariants({ variant: 'default' })}>
+          Read posts
+        </Link>
+        <Link href="/projects" class={buttonVariants({ variant: 'outline' })}>
+          Explore projects
+        </Link>
+        <Link
+          href="/docs/CV_Daniel_Silva.pdf"
+          class={buttonVariants({ variant: 'ghost' })}
+          external
+        >
+          Download CV
+        </Link>
+      </div>
+    </div>
+    <div class="mx-auto w-full max-w-xs">
+      <Image
+        src={profilePhoto}
+        alt="Portrait of Daniel Silva Barrera"
+        width={720}
+        height={720}
+        class="border-border aspect-square rounded-2xl border object-cover"
+      />
+    </div>
+  </section>
+
+  <section class="flex flex-col gap-y-4">
+    <h2 class="text-2xl font-medium">Latest posts</h2>
+    <ul class="flex flex-col gap-y-4">
+      {
+        blog.map((post) => (
+          <li>
+            <BlogCard entry={post} />
+          </li>
+        ))
+      }
+    </ul>
+    <div class="flex justify-center">
+      <Link
+        href="/blog"
+        class={buttonVariants({ variant: 'ghost' }) + ' group'}
+      >
+        See all posts <span
+          class="ml-1.5 transition-transform group-hover:translate-x-1"
+          >&rarr;</span
+        >
+      </Link>
+    </div>
+  </section>
+
+  <section class="flex flex-col gap-y-4">
+    <div class="flex items-end justify-between gap-4">
+      <h2 class="text-2xl font-medium">Selected projects</h2>
+      <Link href="/projects" class="text-sm underline underline-offset-4">
+        View all
+      </Link>
+    </div>
+    <div class="flex flex-col gap-4">
+      {projects.map((project) => <ProjectCard project={project} />)}
+    </div>
+  </section>
+</Layout>

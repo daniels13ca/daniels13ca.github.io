@@ -1,7 +1,7 @@
 ---
 name: '¿Qué tan demorado es llegar por carretera a ver un partido del FPC?'
 description: 'Análisis de tiempos y distancias por carretera para asistir a partidos del Fútbol Profesional Colombiano.'
-tags: ['Sports Analytics', 'Geospatial', 'Data Science']
+tags: ['Sports Analytics', 'Geospatial', 'Data Science', 'spanish']
 image: './cover.png'
 link: 'https://github.com/daniels13ca/distancia_estadios_colombia'
 startDate: '2026-04-03'

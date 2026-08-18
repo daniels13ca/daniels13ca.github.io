@@ -9,6 +9,7 @@
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro",
+    "new-post": "bun run scripts/new-post.ts",
     "prettier": "prettier --write **/*.{ts,tsx,css,astro} --ignore-path .gitignore"
   },
   "dependencies": {
